@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e991790538e7ad46",
+        "id": "aa8c216be405972a",
         "type": "tabs",
         "children": [
           {
-            "id": "9b69c3d8ef2cbdbb",
+            "id": "438d4765bad70248",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Tab mới"
             }
           }
         ]
@@ -168,11 +164,11 @@
       "command-palette:Mở khay lệnh": false
     }
   },
-  "active": "9b69c3d8ef2cbdbb",
+  "active": "438d4765bad70248",
   "lastOpenFiles": [
+    "README.md",
     "Cài đặt/Biểu đồ - Mối liên kết/IntelliJ Parent.md",
     "Cài đặt/Readme.md",
-    "README.md",
     "Cài đặt/Biểu đồ - Mối liên kết/Javascript Parent.md",
     "Cài đặt/Biểu đồ - Mối liên kết/Kiến thức tư duy đúc kết - Parent.md",
     "Cài đặt/Biểu đồ - Mối liên kết/Những lưu ý và cách dùng đúng jsx trong dự án tsx.md",
