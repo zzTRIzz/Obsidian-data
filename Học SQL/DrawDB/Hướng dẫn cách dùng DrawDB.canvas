@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"2376e0b1fea217d8","type":"link","url":"https://www.drawdb.app/","x":-120,"y":-244,"width":400,"height":398},
+		{"id":"89f4c2693a676faa","type":"text","text":"Phải kéo từ khóa ngoại sang khóa chính với web drawDB\n\nhttps://www.drawdb.app/","x":-440,"y":-135,"width":225,"height":180}
+	],
+	"edges":[
+		{"id":"aedb8b8f1beb947d","fromNode":"89f4c2693a676faa","fromSide":"right","toNode":"2376e0b1fea217d8","toSide":"left"}
+	]
+}

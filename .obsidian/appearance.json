@@ -1,0 +1,11 @@
+{
+  "accentColor": "#096ce9",
+  "interfaceFontFamily": "Inter",
+  "baseFontSize": 14,
+  "baseFontSizeAction": true,
+  "cssTheme": "Blue Topaz",
+  "theme": "system",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "nativeMenus": false
+}
