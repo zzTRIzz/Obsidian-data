@@ -14,3 +14,5 @@
   "blue-topaz-theme@@font-family-change-to-default": false
 }
 ```
+
+![[Phần mềm mở rộng đã cài đặt.png]]
