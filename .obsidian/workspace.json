@@ -11,10 +11,14 @@
             "id": "438d4765bad70248",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Chào mừng.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Tab mới"
+              "title": "Chào mừng"
             }
           }
         ]
@@ -164,16 +168,18 @@
       "command-palette:Mở khay lệnh": false
     }
   },
-  "active": "438d4765bad70248",
+  "active": "0c40aa7e93ecac96",
   "lastOpenFiles": [
-    "README.md",
+    "Chào mừng.md",
+    "Readme.md",
+    "Tạo một liên kết.md",
+    "Học React/Bash/sad.md",
     "Cài đặt/Biểu đồ - Mối liên kết/IntelliJ Parent.md",
     "Cài đặt/Readme.md",
     "Cài đặt/Biểu đồ - Mối liên kết/Javascript Parent.md",
     "Cài đặt/Biểu đồ - Mối liên kết/Kiến thức tư duy đúc kết - Parent.md",
     "Cài đặt/Biểu đồ - Mối liên kết/Những lưu ý và cách dùng đúng jsx trong dự án tsx.md",
     "Vscode/Typescript/Muốn dùng jsx trong dự án tsx/Dùng chung `.tsx` và `.jsx` trong dự án React + TypeScript.md",
-    "Tạo một liên kết.md",
     "Cài đặt/Style Setting/Style Setting của Blue Topaz.md",
     "Lưu trữ hình ảnh minh họa/Phần mềm mở rộng đã cài đặt.png",
     "Vscode/Typescript/Muốn dùng jsx trong dự án tsx/Trường hợp code JavaScript hợp lệ trong TypeScrip.md",
@@ -190,7 +196,6 @@
     "Jetbrains/IntelliJ/Spring/Application Properties/IntelliJ IDEA không nhận diện được ký hiệu do bộ nhớ cache bị hỏng.md",
     "Jetbrains/IntelliJ/Spring/Application Properties/Hướng dẫn cấu hình logging trong Hibernate.md",
     "Jetbrains/IntelliJ/Spring/Application Properties/Hướng dẫn cấu hình `spring.jpa.hibernate.ddl-auto`.md",
-    "Chào mừng.md",
     "Học SQL/DrawDB/Hướng dẫn cách dùng DrawDB.canvas",
     "Promt/Promt đề xuất tình huống sử dụng bởi Cline.md",
     "Promt/Promt dạy suy nghĩ AI khác nghĩ như DeepSeek phiên bản thân thiện.md",
@@ -198,7 +203,6 @@
     "Cài đặt/Biểu đồ - Mối liên kết/Promt Parent.md",
     "Promt/Bộ ba Prompt định hướng tư duy AI - Chuyên môn, Thân thiện và Ứng dụng thực tế.canvas",
     "Học React/Vite/Thư viện UI/Shadcn/Hướng dẫn cài đặt ShadcnUI với Vite (v3).md",
-    "Học React/Vite/Thư viện UI/HeroUI/Hướng dẫn cài đặt NextUI trong React với Vite.md",
     "Vscode/Javascript/Cơ bản (F8)/Kiểu dữ liệu/Symbol",
     "Vscode/Javascript/Cơ bản (F8)/Kiểu dữ liệu",
     "Vscode/Javascript/Cơ bản (F8)",
