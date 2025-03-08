@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cài đặt/Biểu đồ - Mối liên kết/IntelliJ Parent.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IntelliJ Parent"
+              "title": "README"
             }
           }
         ]
@@ -170,9 +170,9 @@
   },
   "active": "9b69c3d8ef2cbdbb",
   "lastOpenFiles": [
-    "Cài đặt/Readme.md",
-    "Readme.md",
     "Cài đặt/Biểu đồ - Mối liên kết/IntelliJ Parent.md",
+    "Cài đặt/Readme.md",
+    "README.md",
     "Cài đặt/Biểu đồ - Mối liên kết/Javascript Parent.md",
     "Cài đặt/Biểu đồ - Mối liên kết/Kiến thức tư duy đúc kết - Parent.md",
     "Cài đặt/Biểu đồ - Mối liên kết/Những lưu ý và cách dùng đúng jsx trong dự án tsx.md",
