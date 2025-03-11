@@ -1,17 +1,26 @@
 <br>
 
-[Vào trang chủ cài đặt Shadcn/ui](https://ui.shadcn.com/docs/installation/vite)
+Vào trang chủ **ShadcnUI** cài đặt trước
+```cardlink
+url: https://ui.shadcn.com/docs/installation/vite
+title: "Vite"
+description: "Install and configure shadcn/ui for Vite."
+host: ui.shadcn.com
+favicon: https://ui.shadcn.com/favicon.ico
+image: https://ui.shadcn.com/og?title=Vite&description=Install%20and%20configure%20shadcn%2Fui%20for%20Vite.
+```
+
 ## 1. Cài đặt Tailwind CSS
 
 Do **shadcn/ui** yêu cầu **Tailwind CSS**, trước tiên cần cài đặt phiên bản **v3**:
 
-```
+```shell
 pnpm add -D tailwindcss@3 postcss autoprefixer
 ```
 
 Sau đó, khởi tạo cấu hình Tailwind:
 
-```
+```shell
 tailwindcss init -p
 ```
 
@@ -21,7 +30,7 @@ tailwindcss init -p
 
 Chạy lệnh sau để cài đặt **shadcn/ui**:
 
-```
+```shell
 pnpm dlx shadcn-ui@latest init
 ```
 
@@ -33,7 +42,7 @@ Khi được hỏi về framework, chọn **Vite**.
 
 Mở file `tailwind.config.cjs` hoặc `tailwind.config.js` và cập nhật như sau:
 
-```
+```js
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
@@ -54,7 +63,7 @@ module.exports = {
 
 Tạo một component React để kiểm tra **shadcn/ui**:
 
-```
+```jsx
 import { Button } from '@/components/ui/button';
 
 export default function App() {

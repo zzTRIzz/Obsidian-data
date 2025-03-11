@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FabVuejs",
-      "SiTypescript",
-      "LiFileImage",
-      "LiTableProperties",
-      "FabJs"
+      "SiMinutemailer",
+      "LiSettings",
+      "🟰",
+      "LiMenu",
+      "SiNpm"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -52,5 +52,9 @@
   "Vscode": "SiVisualstudiocode",
   "Vscode/Javascript": "FabJs",
   "Vscode/Javascript/Cơ bản (F8)/Kiểu dữ liệu": "LiTableProperties",
-  "Vscode/Typescript": "SiTypescript"
+  "Vscode/Typescript": "SiTypescript",
+  "Vscode/npm - Thư viện": "SiNpm",
+  "Vscode/npm - Thư viện/Tanstack": "SiReactquery",
+  "Vscode/Cài đặt": "LiSettings",
+  "Jetbrains/IntelliJ/Spring/Gửi email": "SiMinutemailer"
 }
