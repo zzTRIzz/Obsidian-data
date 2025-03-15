@@ -11,7 +11,7 @@ Respond briefly and directly, using as few words as possible. Focus on the core 
 
 ---
 
-## Socratic: Sư phạm Socrates
+## Socratic: Sư phạm
 
 **Prompt gốc:** 
 ```
