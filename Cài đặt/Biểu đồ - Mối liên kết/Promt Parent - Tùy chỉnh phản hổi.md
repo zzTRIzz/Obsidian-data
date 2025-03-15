@@ -1,0 +1,6 @@
+![[Bộ ba Prompt định hướng tư duy AI - Chuyên môn, Thân thiện và Ứng dụng thực tế.canvas]][[Phân tích Chất Lượng Video YouTube qua AI Dựa trên Transcript]]
+[[Grok 3 - Promt Đề Xuất Mặc Định]]
+[[Promt dạy suy nghĩ AI khác nghĩ như DeepSeek phiên bản chuyên môn]]
+[[Promt dạy suy nghĩ AI khác nghĩ như DeepSeek phiên bản thân thiện thang 9 điểm (Quá tốt)]]
+[[Promt đề xuất tình huống sử dụng bởi Cline]]
+[[Promt tiếng Anh chất lượng tương đối 7.2 điểm]]

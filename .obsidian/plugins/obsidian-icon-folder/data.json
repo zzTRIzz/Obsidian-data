@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiMinutemailer",
-      "LiSettings",
-      "🟰",
-      "LiMenu",
-      "SiNpm"
+      "SiObsidian",
+      "SiWindowsxp",
+      "LiBookImage",
+      "SiAmazondocumentdb",
+      "SiAmazondynamodb"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,8 +47,6 @@
   "Học React/Vite/Thư viện UI": "SiTailwindcss",
   "Học React/Bash": "SiGit",
   "Học React/Vite/Thư viện UI/HeroUI": "SiNextui",
-  "Học SQL": "LiDatabase",
-  "Học SQL/DrawDB": "SiAmazondocumentdb",
   "Vscode": "SiVisualstudiocode",
   "Vscode/Javascript": "FabJs",
   "Vscode/Javascript/Cơ bản (F8)/Kiểu dữ liệu": "LiTableProperties",
@@ -56,5 +54,10 @@
   "Vscode/npm - Thư viện": "SiNpm",
   "Vscode/npm - Thư viện/Tanstack": "SiReactquery",
   "Vscode/Cài đặt": "LiSettings",
-  "Jetbrains/IntelliJ/Spring/Gửi email": "SiMinutemailer"
+  "Jetbrains/IntelliJ/Spring/Gửi email": "SiMinutemailer",
+  "Jetbrains/IntelliJ/Spring/Thêm sửa xóa cập nhật": "LiFileInput",
+  "Jetbrains/IntelliJ/Spring/Phân quyền người dùng": "LiUserCheck2",
+  "Học SQL": "SiAmazondynamodb",
+  "Học SQL/DrawDB": "SiAmazondocumentdb",
+  "Cài đặt/Windows": "SiWindowsxp"
 }

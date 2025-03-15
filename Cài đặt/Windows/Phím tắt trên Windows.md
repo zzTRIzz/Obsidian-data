@@ -1,0 +1,1 @@
+Windows + E  : Mở Explorer

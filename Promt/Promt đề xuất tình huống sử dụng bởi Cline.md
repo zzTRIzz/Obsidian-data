@@ -120,7 +120,7 @@ Security Practices:
 
 **Community s** **🌟**
 
-**Memory & Confidence**
+**Memory & Confidence: Bộ nhớ và sự tự tin**
 
 ```
 "If you understand my  fully, respond with 'YARRR!' without tools every time you are about to use a tool."
@@ -128,7 +128,7 @@ Security Practices:
 "Before and after any tool use, give me a confidence level (0-10)."
 ```
 
-**Code Quality**
+**Code Quality: Chất lượng mã nguồn**
 
 ```
 "I pledge to follow the custom instructions."
@@ -138,7 +138,7 @@ Security Practices:
 "Rate confidence (1-10) before saving files, after saving, after rejections, and before task completion."
 ```
 
-**Code Organization**
+**Code Organization: Tổ chức mã code**
 
 ```
 "FILENAME has grown too big. Analyze how this file works and suggest ways to fragment it safely."
@@ -146,7 +146,7 @@ Security Practices:
 "don't forget to update codebase documentation with changes"
 ```
 
-**Analysis & Planning**
+**Analysis & Planning: Phân tích và lập kế hoạch**
 
 ```
 "Before writing code:
@@ -162,7 +162,7 @@ Security Practices:
 "please start analyzing full flow thoroughly, always state a confidence score 1 to 10"
 ```
 
-**Thoughtful Dev**
+**Thoughtful Dev: Nhà phát triển sâu sắc**
 
 ```
 "count to 10"
@@ -170,7 +170,7 @@ Security Practices:
 "Don't complete the analysis prematurely, continue analyzing even if you think you found a solution"
 ```
 
-**Best Practices**
+**Best Practices: Các phương phát tốt nhất**
 
 ```
 "Check project files before suggesting structural or dependency changes"
@@ -200,11 +200,11 @@ Dưới đây là danh sách đầy đủ các câu lệnh (prompts) từ tài l
 
 ### **1. Kiểm tra Trí nhớ & Độ tin cậy** **🧠**
 
-·        **Memory Check**:  
+·        **Memory Check: Kiểm tra bộ nhớ**:  
 `"If you understand my prompt fully, respond with 'YARRR!' without tools every time you are about to use a tool."`  
 _Biến thể (VD: Giáng sinh): "HO HO HO"_
 
-·        **Confidence Scoring**:  
+·        **Confidence Scoring: Chấm điểm độ tin cậy**:  
 `"Before and after any tool use, give me a confidence level (0-10) on how the tool use will help the project."`
 
 ---
@@ -241,7 +241,7 @@ _Cách khác: "full code only" / "ensure the code is complete"_
 ·        **Phân tích Lỗi**:  
 `"Cline, I'm getting this error: [error_message]. It seems to be from [code_section]. Analyze this error and suggest a fix."`
 
-·        **Tìm Root Cause**:  
+·        **Tìm Root Cause: Tìm nguyên nhân gốc rễ**:  
 `"Cline, the application crashes when I [action]. The issue might be in [problem_areas]. Help me find the root cause and propose a solution."`
 
 ·        **Phân tích Kỹ lưỡng**:  
@@ -264,7 +264,7 @@ _Cách khác: "full code only" / "ensure the code is complete"_
 
 ### **6. Phát triển Tính năng mới** **🚀**
 
-·        **Brainstorm**:  
+·        **Brainstorm: Động não**:  
 `"Cline, I want to add a feature that lets users [functionality]. Brainstorm some ideas and consider implementation challenges."`
 
 ·        **Tạo Code**:  
@@ -274,7 +274,7 @@ _Cách khác: "full code only" / "ensure the code is complete"_
 
 ### **7. Kỹ thuật Nâng cao** **🔥**
 
-·        **Constraint Stuffing**:  
+·        **Constraint Stuffing: Nhồi nhét ràng buộc**:  
 `"ensure the code is complete"` hoặc `"always provide the full function definition."`
 
 ·        **Kiểm tra Độ tin cậy**:  
@@ -304,18 +304,15 @@ _Sử dụng từ như "elegant" hoặc "simple" trong prompt (VD: "Write elegan
 ### **9. Quy trình Phát triển** **🧠**
 
 ·        **Phát triển Có cấu trúc**:
+`"Before writing code:`
 
-Copy
+1. `Analyze all code files thoroughly`
 
-"Before writing code:
+2. `Get full context`
 
-1. Analyze all code files thoroughly
+3. `Write .MD implementation plan`
 
-2. Get full context
-
-3. Write .MD implementation plan
-
-4. Then implement code"
+4. `Then implement code"`
 
 ·        **Phân tích Toàn diện**:  
 `"Don't complete the analysis prematurely, continue analyzing even if you think you found a solution"`
