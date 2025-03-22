@@ -2,5 +2,5 @@
 [[Grok 3 - Promt Đề Xuất Mặc Định]]
 [[Promt dạy suy nghĩ AI khác nghĩ như DeepSeek phiên bản chuyên môn]]
 [[Promt dạy suy nghĩ AI khác nghĩ như DeepSeek phiên bản thân thiện thang 9 điểm (Quá tốt)]]
-[[Promt đề xuất tình huống sử dụng bởi Cline]]
+[[Cline - Promt Đề Xuất Mặc Định]]
 [[Promt tiếng Anh chất lượng tương đối 7.2 điểm]]

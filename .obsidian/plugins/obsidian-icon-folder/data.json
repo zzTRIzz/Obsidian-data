@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiGooglechrome",
-      "FabEdge",
-      "SiObsidian",
-      "SiWindowsxp",
-      "LiBookImage"
+      "LiFolderTree",
+      "LiFolderCog",
+      "LiTableProperties",
+      "SiMusicbrainz",
+      "LiBrain"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -59,6 +59,15 @@
   "Jetbrains/IntelliJ/Spring/Phân quyền người dùng": "LiUserCheck2",
   "Học SQL": "SiAmazondynamodb",
   "Học SQL/DrawDB": "SiAmazondocumentdb",
-  "Cài đặt/Windows": "SiWindowsxp",
-  "Cài đặt/Windows/Trình duyệt": "SiGooglechrome"
+  "Promt/cache": "LiTrash",
+  "Cài đặt/Máy tính": "SiWindows",
+  "Cài đặt/Máy tính/Windows": "SiWindowsxp",
+  "Cài đặt/Máy tính/Windows/Trình duyệt": "SiGooglechrome",
+  "Jetbrains/IntelliJ/Spring/Bảo mật": "SiSpringsecurity",
+  "Vscode/Javascript/Cơ bản (F8)/Biến": "LiVariable",
+  "Học SQL/MySQL": "SiMysql",
+  "Vscode/npm - Thư viện/Zod": "SiZod",
+  "Tệp chung": "SiMusicbrainz",
+  "Vscode/Typescript/Cơ bản/Kiểu dữ liệu": "LiTableProperties",
+  "Jetbrains/IntelliJ/Spring/Cấu trúc thư mục": "LiFolderTree"
 }

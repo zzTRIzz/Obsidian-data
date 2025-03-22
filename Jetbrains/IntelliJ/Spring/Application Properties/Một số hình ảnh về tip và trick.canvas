@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"95908b70b4b25d8e","type":"file","file":"Lưu trữ hình ảnh minh họa/Nhấn nút trỏ tệp đã mở.png","x":-80,"y":-239,"width":400,"height":256},
-		{"id":"5377d3e6081ba9ca","type":"file","file":"Lưu trữ hình ảnh minh họa/Luôn trỏ tệp đã mở.png","x":400,"y":-239,"width":400,"height":312},
+		{"id":"95908b70b4b25d8e","type":"file","file":"Tệp chung/Lưu trữ hình ảnh minh họa/Nhấn nút trỏ tệp đã mở.png","x":-80,"y":-239,"width":400,"height":256},
+		{"id":"5377d3e6081ba9ca","type":"file","file":"Tệp chung/Lưu trữ hình ảnh minh họa/Luôn trỏ tệp đã mở.png","x":400,"y":-239,"width":400,"height":312},
 		{"id":"0eb89975424fdfe3","type":"text","text":"https://stackoverflow.com/questions/1086041/locate-current-file-in-intellij#:~:text=Open%20Settings%2C%20go%20to%20Keymap,should%20have%20a%20crosshair%20icon.","x":-80,"y":43,"width":400,"height":97}
 	],
 	"edges":[]

@@ -2,10 +2,10 @@
 	"nodes":[
 		{"id":"0098186bfe5c0bef","type":"file","file":"Promt/Promt dạy suy nghĩ AI khác nghĩ như DeepSeek phiên bản thân thiện thang 9 điểm (Quá tốt).md","x":-840,"y":-400,"width":400,"height":400},
 		{"id":"332c6a1d08658022","type":"file","file":"Promt/Promt dạy suy nghĩ AI khác nghĩ như DeepSeek phiên bản chuyên môn.md","x":-840,"y":50,"width":400,"height":400},
-		{"id":"f9732a566a835c86","type":"file","file":"Lưu trữ hình ảnh minh họa/Logo DeepSeek.png","x":-1100,"y":-80,"width":220,"height":220},
+		{"id":"f9732a566a835c86","type":"file","file":"Tệp chung/Lưu trữ hình ảnh minh họa/Logo DeepSeek.png","x":-1100,"y":-80,"width":220,"height":220},
 		{"id":"3d590e4703e9b946","type":"link","url":"https://www.vellum.ai/llm-leaderboard","x":-1100,"y":480,"width":1100,"height":560},
-		{"id":"1dfc7afb6eacd4e9","type":"file","file":"Promt/Promt đề xuất tình huống sử dụng bởi Cline.md","x":-400,"y":-80,"width":400,"height":400},
-		{"id":"02619db5bc29654f","type":"file","file":"Lưu trữ hình ảnh minh họa/Logo Cline.png","x":-300,"y":-320,"width":200,"height":200}
+		{"id":"1dfc7afb6eacd4e9","type":"file","file":"Promt/Cline - Promt Đề Xuất Mặc Định.md","x":-400,"y":-80,"width":400,"height":400},
+		{"id":"02619db5bc29654f","type":"file","file":"Tệp chung/Lưu trữ hình ảnh minh họa/Logo Cline.png","x":-300,"y":-320,"width":200,"height":200}
 	],
 	"edges":[
 		{"id":"8878285eb6b940c9","fromNode":"f9732a566a835c86","fromSide":"top","toNode":"0098186bfe5c0bef","toSide":"left"},
