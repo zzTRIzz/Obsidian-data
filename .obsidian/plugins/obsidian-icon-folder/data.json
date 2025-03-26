@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiFolderTree",
-      "LiFolderCog",
-      "LiTableProperties",
-      "SiMusicbrainz",
-      "LiBrain"
+      "SiSpring",
+      "🔢",
+      "SiReact",
+      "SiTsnode",
+      "LiFolderTree"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -50,7 +50,6 @@
   "Vscode": "SiVisualstudiocode",
   "Vscode/Javascript": "FabJs",
   "Vscode/Javascript/Cơ bản (F8)/Kiểu dữ liệu": "LiTableProperties",
-  "Vscode/Typescript": "SiTypescript",
   "Vscode/npm - Thư viện": "SiNpm",
   "Vscode/npm - Thư viện/Tanstack": "SiReactquery",
   "Vscode/Cài đặt": "LiSettings",
@@ -68,6 +67,11 @@
   "Học SQL/MySQL": "SiMysql",
   "Vscode/npm - Thư viện/Zod": "SiZod",
   "Tệp chung": "SiMusicbrainz",
+  "Jetbrains/IntelliJ/Spring/Cấu trúc thư mục": "LiFolderTree",
+  "Vscode/npm - Thư viện/tsx": "SiTsnode",
+  "Vscode/Typescript": "SiTypescript",
   "Vscode/Typescript/Cơ bản/Kiểu dữ liệu": "LiTableProperties",
-  "Jetbrains/IntelliJ/Spring/Cấu trúc thư mục": "LiFolderTree"
+  "Vscode/Typescript/Typescript trong React": "SiReact",
+  "Vscode/Typescript/Hàm hữu dụng/Chuỗi bất kì": "🔢",
+  "Jetbrains/IntelliJ/Spring/Spring IoC Container": "SiSpring"
 }

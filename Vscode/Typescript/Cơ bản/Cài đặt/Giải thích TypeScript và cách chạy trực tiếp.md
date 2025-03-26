@@ -130,3 +130,17 @@ TypeScript sẽ tự động biên dịch tất cả các file `.ts` trong thư 
 ---
 
 ✅ **Tóm lại:** TypeScript **cần được cài đặt và biên dịch thành JavaScript** trước khi có thể chạy được trong trình duyệt hoặc môi trường Node.js!
+
+Nếu chưa có thư viện tsx, hãy cài đặt tsx để chạy:
+
+```bash
+npm i -g tsx
+```
+Thực thi File TypeScript, hãy mở terminal và chạy:
+
+```bash
+tsx "Đường đẫn của file hiện tại"
+```
+```bash
+tsx watch "Đường đẫn của file hiện tại + watch xem thay đổi trực tiếp"
+```

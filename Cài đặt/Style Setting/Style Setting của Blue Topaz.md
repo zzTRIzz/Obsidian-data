@@ -16,3 +16,4 @@
 ```
 
 ![[Phần mềm mở rộng đã cài đặt.png]]![[Icon packs đã cài những icon thư viện.png]]
+Ctrl + L  : Biến đoạn text thành checkbox
