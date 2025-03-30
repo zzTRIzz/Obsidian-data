@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiSpring",
-      "🔢",
-      "SiReact",
-      "SiTsnode",
-      "LiFolderTree"
+      "FabChrome",
+      "LiChrome",
+      "LiLink",
+      "SiGnometerminal",
+      "LiTable"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -72,6 +72,10 @@
   "Vscode/Typescript": "SiTypescript",
   "Vscode/Typescript/Cơ bản/Kiểu dữ liệu": "LiTableProperties",
   "Vscode/Typescript/Typescript trong React": "SiReact",
-  "Vscode/Typescript/Hàm hữu dụng/Chuỗi bất kì": "🔢",
-  "Jetbrains/IntelliJ/Spring/Spring IoC Container": "SiSpring"
+  "Jetbrains/IntelliJ/Spring/Spring IoC Container": "SiSpring",
+  "Học React/Vite/Thư viện UI/TailwindCSS": "SiTailwindcss",
+  "Jetbrains/IntelliJ/Spring/Kiểu dữ liệu": "LiTable",
+  "Vscode/Typescript/Hàm có sẵn/Chuỗi bất kì": "🔢",
+  "Vscode/Typescript/Hàm có sẵn/console": "SiGnometerminal",
+  "Vscode/Typescript/Hàm có sẵn/Mã hóa chuỗi thành dạng dùng URL": "FabChrome"
 }

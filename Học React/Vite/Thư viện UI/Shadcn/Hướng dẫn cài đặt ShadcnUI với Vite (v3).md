@@ -21,7 +21,7 @@ pnpm add -D tailwindcss@3 postcss autoprefixer
 Sau đó, khởi tạo cấu hình Tailwind:
 
 ```shell
-tailwindcss init -p
+pnpm dlx tailwindcss@3 init
 ```
 
 ---
