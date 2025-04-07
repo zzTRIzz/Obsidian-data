@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FabChrome",
-      "LiChrome",
-      "LiLink",
-      "SiGnometerminal",
-      "LiTable"
+      "SiHoppscotch",
+      "LiCloudy",
+      "SiJson",
+      "SiApifox",
+      "FabChrome"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -69,13 +69,15 @@
   "Vscode/Typescript/Hàm có sẵn/Chuỗi bất kì": "🔢",
   "Vscode/Typescript/Hàm có sẵn/console": "SiGnometerminal",
   "Vscode/Typescript/Hàm có sẵn/Mã hóa chuỗi thành dạng dùng URL": "FabChrome",
-  "Học React": "SiReact",
-  "Học React/Bash": "SiGit",
-  "Học React/Vite": "SiVite",
-  "Học React/Vite/Phông chữ": "SiGooglefonts",
-  "Học React/Vite/pnpm": "SiPnpm",
-  "Học React/Vite/Thư viện UI": "SiTailwindcss",
-  "Học React/Vite/Thư viện UI/HeroUI": "SiNextui",
-  "Học React/Vite/Thư viện UI/Shadcn": "SiShadcnui",
-  "Học React/Vite/Thư viện UI/TailwindCSS": "SiTailwindcss"
+  "Vscode/API - Trao đổi dữ liệu": "LiCloudy",
+  "Hoppscotch": "SiHoppscotch",
+  "Vscode/React": "SiReact",
+  "Vscode/React/Bash": "SiGit",
+  "Vscode/React/Vite": "SiVite",
+  "Vscode/React/Vite/Phông chữ": "SiGooglefonts",
+  "Vscode/React/Vite/pnpm": "SiPnpm",
+  "Vscode/React/Vite/Thư viện UI": "SiTailwindcss",
+  "Vscode/React/Vite/Thư viện UI/HeroUI": "SiNextui",
+  "Vscode/React/Vite/Thư viện UI/Shadcn": "SiShadcnui",
+  "Vscode/React/Vite/Thư viện UI/TailwindCSS": "SiTailwindcss"
 }
