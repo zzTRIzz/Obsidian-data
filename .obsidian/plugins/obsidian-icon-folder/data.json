@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiHoppscotch",
-      "LiCloudy",
-      "SiJson",
-      "SiApifox",
-      "FabChrome"
+      "LiStars",
+      "SiGooglegemini",
+      "LiBrainCircuit",
+      "LiCog",
+      "SiHoppscotch"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -79,5 +79,7 @@
   "Vscode/React/Vite/Thư viện UI": "SiTailwindcss",
   "Vscode/React/Vite/Thư viện UI/HeroUI": "SiNextui",
   "Vscode/React/Vite/Thư viện UI/Shadcn": "SiShadcnui",
-  "Vscode/React/Vite/Thư viện UI/TailwindCSS": "SiTailwindcss"
+  "Vscode/React/Vite/Thư viện UI/TailwindCSS": "SiTailwindcss",
+  "Jetbrains/IntelliJ/Spring/Kiến Thức Cốt Lõi": "LiCog",
+  "Jetbrains/IntelliJ/Spring/Spring AI": "LiStars"
 }
