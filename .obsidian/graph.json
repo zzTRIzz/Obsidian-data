@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "zod",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 2.1519736426628584,
+  "scale": 0.026618383240199262,
   "close": true
 }
