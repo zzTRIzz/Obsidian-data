@@ -109,4 +109,3 @@ Một số thuật ngữ máy tính cần biết
 * MCSA (Microsoft Certified Systems Administrator): Chứng chỉ dành cho người quản trị hệ điều hành mạng của Microsoft, được chính Bác Bill Gate ký.
 * MCSE (Microsoft Certified Systems Engineering): Là một chứng chỉ để trở thành một kỹ sư quản trị hệ thống
 
-Nguồn sưu tầm
