@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaGuide-main/README.md",
+                "file": "Jetbrains/IntelliJ/Spring/Baeldung/1. Spring AI - Giới thiệu.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "1. Spring AI - Giới thiệu"
             }
           }
         ]
@@ -168,8 +168,22 @@
       "command-palette:Mở khay lệnh": false
     }
   },
-  "active": "0c40aa7e93ecac96",
+  "active": "1a25234411abb068",
   "lastOpenFiles": [
+    "Jetbrains/IntelliJ/Spring/Application Properties/Hướng dẫn cấu hình logging trong Hibernate.md",
+    "Jetbrains/IntelliJ/Spring/Application Properties/Hướng dẫn cấu hình `spring.jpa.hibernate.ddl-auto`.md",
+    "Jetbrains/IntelliJ/Spring/Baeldung/1. Spring AI - Giới thiệu.md",
+    "Jetbrains/IntelliJ/Spring/Baeldung/2. Spring AI - Chatbot AI sử dụng Mô hình DeepSeek.md",
+    "Jetbrains/IntelliJ/Spring/Bảo mật/1. Spring Security -Tại sao dùng @Bean thay vì @Component.md",
+    "Jetbrains/IntelliJ/Spring/Bảo mật/Youtube - Spring Security 6 with Spring Boot and JWT Tutorial.md",
+    "Jetbrains/IntelliJ/Spring/Bảo mật/Youtube - Amigoscode - Spring Security Tutorial - NEW 2023.md",
+    "Jetbrains/IntelliJ/Spring/Bảo mật/Cuộc tấn công XSS vào localStorage.md",
+    "Bài viết/đến gọi đi phỏng vấn tôi còn chưa được gọi.md",
+    "Bài viết/mục tiêu của việc sau khi vào công ty là học hỏi thì cần làm gì để biết mình đang học hỏi tôi làm IT.md",
+    "Bài viết/tôi được gì với thị trường vừa khó vừa đông người hơn 100 ứng viên, chen chân lổi không.md",
+    "Bài viết/tôi rất sợ khó, trả lời nhu senior nghiêm túc khó tính cho tôi lời khuyên.md",
+    "Vscode/Bài viết/Frontend không chỉ mỗi UI.md",
+    "JavaGuide-main/README.md",
     "Tệp chung/Kiến thức/Tư duy/Tư duy như một kỹ sư.md",
     "Tệp chung/Kiến thức/OpenAI - Chia sẻ của cựu ông chủ điều hành đứng sau sự thành công ChatGPT.md",
     "Tệp chung/Kiến thức/Khơi gợi sự thay đổi hoặc điều chỉnh cần thiết.md",
@@ -178,24 +192,10 @@
     "Tệp chung/Kiến thức/Cách học hiệu quả ngành CNTT và vượt qua nỗi sợ lượng kiến thức khổng lồ.md",
     "Tệp chung/Kiến thức/Cách Đọc Code Hiệu Quả Trong Dự Án Lớn.md",
     "JavaGuide-main/docs/java/basis/serialization.md",
-    "JavaGuide-main/README.md",
     "JavaGuide-main/docs/zhuanlan/java-mian-shi-zhi-bei.md",
     "JavaGuide-main/docs/java/basis/why-there-only-value-passing-in-java.md",
-    "Bài viết/tôi rất sợ khó, trả lời nhu senior nghiêm túc khó tính cho tôi lời khuyên.md",
-    "Bài viết/tôi được gì với thị trường vừa khó vừa đông người hơn 100 ứng viên, chen chân lổi không.md",
-    "Bài viết/mục tiêu của việc sau khi vào công ty là học hỏi thì cần làm gì để biết mình đang học hỏi tôi làm IT.md",
-    "Bài viết/đến gọi đi phỏng vấn tôi còn chưa được gọi.md",
     "Cài đặt/Obsidian - Biểu đồ - Mối liên kết/Promt Parent - Tùy chỉnh phản hổi.md",
     "Cài đặt/Obsidian - Biểu đồ - Mối liên kết/Những lưu ý và cách dùng đúng jsx trong dự án tsx.md",
-    "Cài đặt/Obsidian - Biểu đồ - Mối liên kết/Kiến thức tư duy đúc kết - Parent.md",
-    "Cài đặt/Obsidian - Biểu đồ - Mối liên kết/Javascript Parent.md",
-    "Cài đặt/Obsidian - Biểu đồ - Mối liên kết/IntelliJ Parent.md",
-    "Chào mừng.md",
-    "Readme.md",
-    "Tạo một liên kết.md",
-    "Vscode/Thư viện/npm - Thư viện/Tanstack/Tanstack - Route/Hoạt động/React Router từ TanStack hoạt động thế nào.md",
-    "Vscode/Thư viện/npm - Thư viện/Tanstack/Tanstack - Route/Hoạt động/Giải thích createLazyFileRoute v1.01.md",
-    "Vscode/Thư viện/npm - Thư viện/Tanstack/Tanstack - Route/Hoạt động/Giải thích createLazyFileRoute.md",
     "Vscode/Bài viết",
     "Jetbrains/IntelliJ/Spring/Câu hỏi phỏng vấn/Cẩm nang - Phỏng vấn Thực tập Java Spring.wav",
     "Cài đặt/Máy tính/Windows/Công cụ hoặc trang web hay/Excalidraw",
