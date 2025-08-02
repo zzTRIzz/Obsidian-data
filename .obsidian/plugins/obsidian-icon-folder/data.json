@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiGithub",
       "LiBookText",
       "📑",
       "FabDev",
-      "SiCloudways",
-      "FabJava"
+      "SiCloudways"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,7 +40,6 @@
   "Jetbrains/IntelliJ/Spring": "SiSpring",
   "Jetbrains/IntelliJ/Spring/Application Properties": "LiSettings",
   "Vscode": "SiVisualstudiocode",
-  "Vscode/Cài đặt": "LiSettings",
   "Jetbrains/IntelliJ/Spring/Gửi email": "SiMinutemailer",
   "Jetbrains/IntelliJ/Spring/Thêm sửa xóa cập nhật": "LiFileInput",
   "Jetbrains/IntelliJ/Spring/Phân quyền người dùng": "LiUserCheck2",
@@ -97,6 +96,5 @@
   "Cài đặt/Máy tính/Windows/Công cụ hoặc trang web hay/Scrimba": "SiScrimba",
   "Cài đặt/Máy tính/Windows/Công cụ hoặc trang web hay/Excalidraw": "SiExcalidraw",
   "JavaGuide-main": "FabJava",
-  "Vscode/Ngôn ngữ lập trình": "FabDev",
-  "Vscode/Bài viết": "LiBookText"
+  "Cài đặt/Máy tính/Windows/Trình duyệt/Github": "SiGithub"
 }
