@@ -1,8 +1,10 @@
 # Hướng dẫn sử dụng Spring Security JWT Learning App
 
+## Source code: [Link](https://github.com/zzTRIzz/Obsidian-data/tree/master/Jetbrains/IntelliJ/Spring/B%E1%BA%A3o%20m%E1%BA%ADt/sourcecode)
+
 ## 📋 Mục tiêu học tập
 
-Dự án này giúp bạn hiểu và thực hành:
+Dự án này giúp hiểu và thực hành:
 - **Spring Security 6  Configuration**
 - **JWT Token Authentication** 
 - **Role-based Authorization**

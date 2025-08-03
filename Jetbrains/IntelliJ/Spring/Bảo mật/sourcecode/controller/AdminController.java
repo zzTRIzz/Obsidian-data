@@ -122,18 +122,18 @@ public class AdminController {
             List<User> allUsers = userService.getAllUsers();
             
             // Tạo thống kê
-            long totalUsers = allUsers.size();
-            long activeUsers = allUsers.stream().filter(User::isActive).count();
-            long adminUsers = allUsers.stream().filter(user -> "ADMIN".equals(user.getRole())).count();
-            long regularUsers = allUsers.stream().filter(user -> "USER".equals(user.getRole())).count();
+            long totalUser = allUsers.size();
+            long activeUser = allUsers.stream().filter(User::isActive).count();
+            long adminUser = allUsers.stream().filter(user -> "ADMIN".equals(user.getRole())).count();
+            long regularUser = allUsers.stream().filter(user -> "USER".equals(user.getRole())).count();
             
             // Tạo object thống kê
             var dashboard = new Object() {
-                public final long totalUsers = totalUsers;
-                public final long activeUsers = activeUsers;
+                public final long totalUsers = totalUser;
+                public final long activeUsers = activeUser;
                 public final long inactiveUsers = totalUsers - activeUsers;
-                public final long adminUsers = adminUsers;
-                public final long regularUsers = regularUsers;
+                public final long adminUsers = adminUser;
+                public final long regularUsers = regularUser;
             };
             
             return ResponseEntity.ok(ApiResponse.success("Lấy thống kê dashboard thành công", dashboard));
