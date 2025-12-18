@@ -1,7 +1,12 @@
 - **Bài 1 (Ảnh 231227):** **Cường độ lao động tăng** (làm việc căng hơn trong 1 ngày) -> Coi như ngày lao động thực tế dài ra -> `t'` tăng trong khi `t` không đổi -> `m'` tăng -> **Phương pháp TUYỆT ĐỐI**.
-
+<br>
 - **Bài 2 (Ảnh 230825):** **Năng suất tăng** -> `t` giảm -> `m'` tăng -> **Phương pháp TƯƠNG ĐỐI**.
-
+<br>
+- **Bài 3 :** Dạng này có một cái "bẫy" nhỏ về lý thuyết mà sinh viên hay nhầm lẫn giữa **Giá trị hàng hóa ($G$)** và **Giá trị mới ($v+m$)**
+<br>
+**=> "Giá trị mới" là toàn bộ phần giá trị được sáng tạo bởi sức lao động sống của công nhân trong kỳ sản xuất đó.** Nó bao gồm cả phần **bù đắp cho chính họ (v)** và phần **dư ra cho nhà tư bản (m)**.
+<br>
+- **Bài 4 :** **Cấu tạo hữu cơ ($c/v$)**
 
 ### **PHẦN 1: CÔNG THỨC "SỐNG CÒN" PHẢI THUỘC LÒNG**
 
