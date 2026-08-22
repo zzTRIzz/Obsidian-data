@@ -1,0 +1,4 @@
+body {
+    /* Chỉnh sửa khoảng cách giữa các dòng (mặc định của Obsidian thường là 1.5) */
+    --line-height-normal: 2; 
+}

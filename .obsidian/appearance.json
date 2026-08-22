@@ -1,11 +1,14 @@
 {
   "accentColor": "#096ce9",
   "interfaceFontFamily": "Inter",
-  "baseFontSize": 14,
+  "baseFontSize": 12,
   "baseFontSizeAction": true,
   "cssTheme": "Blue Topaz",
   "theme": "system",
   "textFontFamily": "",
   "monospaceFontFamily": "",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "chinh sua"
+  ]
 }
